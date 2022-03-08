@@ -4,14 +4,14 @@ my tasks for amFOSS recruitment.
 --------------|---------------|---------------
 [Task-00](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Installing Ubuntu|MacOS
 [Task-01](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Staring amFOSS repositories|Completed
-[Task-02](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-02)|Registering nick in IRC Freenode|Completed
-[Task-03](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-03)|Programming|Done Six Questions
-[Task-04](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-04)|Debugging Derbies|Completed
-[Task-05](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-05)|Rustic Scraper|Not Attempted till yet
-[Task-06](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-06)|Geddit|Completed
-[Task-07](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-07)|Ubiquitous UI|Completed
-[Task-08](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-08)|Sir Perceval's quest|Completed
-[Task-09](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-09)|Spammer_Spaghetti(Whatsapp Spammer)|Completed
+[Task-02](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-02)|Begin your journey with Linux and Git|Completed
+[Task-03](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-03)|Programming|In
+[Task-04](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-04)| Aerglo Mars| In
+[Task-05](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-05)|Let me C|Completed
+[Task-06](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-06)|Flutter based UI task|In
+[Task-07](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-07)|Rich Scraper|In
+[Task-08](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-08)|JSExplorer| In
+[Task-09](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-09)|Setup a Simple Personal Website|Completed
 [Task-10](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-10)|CS50|Not Attempted till yet
 [Task-11](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-11)|Poster Design|Completed
 [Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|If maths was FUN:P|Done(Output is fine but source limit crossed) 
