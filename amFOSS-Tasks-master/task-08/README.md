@@ -1,0 +1,1 @@
+This task was fun as well. I already knew somethings in HTML and css. i just had some difficulties in graph. It was a bit confusing but I managed to do it. Right now also it is having a thing that I was not able to correct myself.

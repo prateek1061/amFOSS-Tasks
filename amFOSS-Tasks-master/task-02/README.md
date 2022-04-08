@@ -1,0 +1,1 @@
+This task was kind of interesting. I got to learn about terminal commands. It waswasy and fun to do.

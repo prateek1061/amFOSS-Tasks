@@ -1,0 +1,1 @@
+This task was very interesting. I already knew some basic things in C, so i did the task quickly. This is the task that took least amount of time because I already knew how to do it.

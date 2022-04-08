@@ -1,0 +1,1 @@
+This task was the toughest for me. I did not know anything about app making or dart language. I had to study the whole thing from scratch. This task took the longest time as there was nothing that i knew for it.
