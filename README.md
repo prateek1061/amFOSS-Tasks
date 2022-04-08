@@ -17,4 +17,4 @@ my tasks for amFOSS recruitment.
 [Task-12](https://github.com/prateek1061/amfoss-tasks/tree/master/task-12)|Make The Block|Not Done 
 [Task-13](https://github.com/prateek1061/amfoss-tasks/tree/master/task-13)|Circuit Design(Arduino)|Not Done
 [Task-14](https://github.com/prateek1061/amfoss-tasks/tree/master/task-14)|Bandit|Not Done
-[Task-15](https://github.com/prateek1061/amfoss-tasks/tree/master/task-15)|Project Euler|Not Done
+[Task-15](https://github.com/prateek1061/amfoss-tasks/tree/master/task-15)|Project Euler|Not Done 
